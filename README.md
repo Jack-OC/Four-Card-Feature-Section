@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: ()
-- Live Site URL: ()
+- Solution URL: (https://github.com/Jack-OC/Four-Card-Feature-Section)
+- Live Site URL: (https://jack-oc.github.io/Four-Card-Feature-Section/)
 
 
 ## My process
